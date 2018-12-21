@@ -1,6 +1,4 @@
 # ssafy_opggbot
-=================
-
 
 > we can get champrank!
 
